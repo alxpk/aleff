@@ -563,7 +563,7 @@ font-size: 1.3rem;
 /* newsletter section*/
 
 .newsletter{
-    background:url(/png/join-bg.jpg) no-repeat;
+    background:url(png/join-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
